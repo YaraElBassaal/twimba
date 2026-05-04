@@ -1,5 +1,5 @@
 # 🐦 Twimba
-
+<img width="369" height="764" alt="Image" src="https://github.com/user-attachments/assets/5992c4d4-2254-4334-a1bc-4aee7c6102d1" />
 
 Twimba is a simple Twitter-like interactive feed built using Vanilla JavaScript.  
 It was created as part of my learning journey with Scrimba, where I learned how to build interactive user interfaces from scratch using HTML, CSS, and JavaScript.
