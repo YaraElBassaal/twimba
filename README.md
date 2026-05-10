@@ -55,12 +55,13 @@ To use the Twimba project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/twimba.git](https://github.com/YaraElBassaal/twimba.git)
+   git clone https://github.com/YaraElBassaal/twimba.git
 2. Open the project folder.
 3. Open the `index.html` file in your web browser.
 
 ## Usage💻
 Once the Twimba project is running in your browser, you can:
+- Navigate to the site from this link: https://yaraelbassaal.github.io/twimba/
 - Write a tweet in the input box
 - Click the “Tweet” button to post it
 - Like or retweet posts
